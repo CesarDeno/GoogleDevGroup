@@ -1,4 +1,7 @@
 .global_style {
     font-size: 14px;
-    display: none;
+    display: block;
+    font-weight: 600;
+    height: 50px;
+    background-color: aquamarine;
 }
